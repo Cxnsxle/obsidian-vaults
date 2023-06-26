@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "46937eb42fc8c6aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "47f9d297484cbd1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "852c5872ec3cd96d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e76055cac2d8776",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b6e9ed0cfc42f8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f998cceba91f427",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38f06c64386ccf41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#web",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "347260ea38049654",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d22e8cf31274f071",
+    "type": "split",
+    "children": [
+      {
+        "id": "bac874699769c0c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c620eafce0313d5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83e89922075f46c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46d1950a603e6e7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ffce2a7ec5ef43c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "852c5872ec3cd96d",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "CMS/Wordpress/Wpscan.md",
+    "CMS/Wordpress/Xmlrpc.md",
+    "CMS/Wordpress/WordPress.md",
+    "CMS/Drupal/Drupal.md",
+    "CMS/Joomla/Joomla.md",
+    "CMS/Magento/Magento.md",
+    "CMS Content Manager System.md",
+    "Tools.md",
+    "Index.md",
+    "Tasks.md",
+    "Pasted image 20230624040241.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "CMS/Magento",
+    "CMS/Drupal",
+    "CMS/Wordpress",
+    "CMS/Joomla",
+    "CMS"
+  ]
+}
