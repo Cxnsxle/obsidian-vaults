@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "46937eb42fc8c6aa",
+    "id": "db35e306a5e1919c",
     "type": "split",
     "children": [
       {
-        "id": "47f9d297484cbd1d",
+        "id": "5671be63648fdc04",
         "type": "tabs",
         "children": [
           {
-            "id": "852c5872ec3cd96d",
+            "id": "3a12a5ce5e0bff98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools.md",
-                "mode": "source",
+                "file": "SQLI/SQLI Basics.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2e76055cac2d8776",
+    "id": "c62e848cef43aca7",
     "type": "split",
     "children": [
       {
-        "id": "5b6e9ed0cfc42f8f",
+        "id": "c2370f9f70823171",
         "type": "tabs",
         "children": [
           {
-            "id": "1f998cceba91f427",
+            "id": "0b689514a283aaf6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "38f06c64386ccf41",
+            "id": "4e26608feebd56be",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#web",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "347260ea38049654",
+            "id": "6d4456982b65ba29",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 309.5
   },
   "right": {
-    "id": "d22e8cf31274f071",
+    "id": "2e2a9b9d1b3cae21",
     "type": "split",
     "children": [
       {
-        "id": "bac874699769c0c7",
+        "id": "2ee0a4d7d64f1317",
         "type": "tabs",
         "children": [
           {
-            "id": "c620eafce0313d5e",
+            "id": "15a56befb6647ba3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools.md",
+                "file": "SQLI/SQLI Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "83e89922075f46c2",
+            "id": "6d0b19bf1e287e37",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools.md",
+                "file": "SQLI/SQLI Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "46d1950a603e6e7a",
+            "id": "d2e1ebf90290e475",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "2ffce2a7ec5ef43c",
+            "id": "4f688c376b55d354",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools.md"
+                "file": "SQLI/SQLI Basics.md"
               }
             }
           }
@@ -146,27 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "852c5872ec3cd96d",
+  "active": "3a12a5ce5e0bff98",
   "lastOpenFiles": [
-    "Tasks.md",
-    "Tools.md",
-    "Pasted image 20230624040241.png",
-    "Index.md",
-    "CMS Content Manager System.md",
-    "CMS/Joomla/Joomla.md",
-    "CMS/Magento/Magento.md",
-    "CMS/Wordpress/Wpscan.md",
-    "CMS/Wordpress/Xmlrpc.md",
-    "CMS/Wordpress/WordPress.md",
-    "Untitled",
-    "Untitled.md",
-    "CMS/Drupal/Drupal.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "CMS/Magento",
-    "CMS/Drupal",
-    "CMS/Wordpress",
-    "CMS/Joomla",
-    "CMS"
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense - XSS Vulnhub Machine.md",
+    "XSS/HttpOnly.md",
+    "XSS/XSS Basics.md",
+    "BurpSuite.md",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629181356.png",
+    "SQLI/SQLI Basics.md",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629195745.png",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629195557.png",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629195241.png",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629194838.png",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629192748.png",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629191218.png",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629191110.png",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629190143.png",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629185824.png",
+    "Pasted image 20230629173255.png.md",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images",
+    "XSS/MyExpense - XSS Vulnhub Machine",
+    "Pasted image 20230629133300.png.md",
+    "XSS/XSS images",
+    "XSS",
+    "Untitled 1.md",
+    "SQLI"
   ]
 }
