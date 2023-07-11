@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQLI/SQLI Basics.md",
+                "file": "XSS/XSS Basics.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a189a57e431ebd58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BurpSuite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQLI/SQLI Basics.md",
+                "file": "BurpSuite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQLI/SQLI Basics.md",
+                "file": "BurpSuite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQLI/SQLI Basics.md"
+                "file": "BurpSuite.md"
               }
             }
           }
@@ -146,23 +159,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a12a5ce5e0bff98",
+  "active": "a189a57e431ebd58",
   "lastOpenFiles": [
-    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense - XSS Vulnhub Machine.md",
-    "XSS/HttpOnly.md",
     "XSS/XSS Basics.md",
     "BurpSuite.md",
-    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629181356.png",
+    "Wrappers.md",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense - XSS Vulnhub Machine.md",
+    "XSS/HttpOnly.md",
+    "XXE/XXE Basics.md",
+    "XXE/XXE images/Pasted image 20230711161247.png",
+    "XXE/XXE images/Pasted image 20230711153407.png",
+    "XXE/XXE images/Pasted image 20230711153003.png",
+    "XXE/XXE images/Pasted image 20230711151717.png",
+    "XXE/XXE images/Pasted image 20230711151257.png",
+    "XXE/XML.md",
     "SQLI/SQLI Basics.md",
+    "XXE/XXE images",
+    "XXE",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629181356.png",
     "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629195745.png",
     "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629195557.png",
     "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629195241.png",
     "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629194838.png",
-    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629192748.png",
-    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629191218.png",
-    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629191110.png",
-    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629190143.png",
-    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images/Pasted image 20230629185824.png",
     "Pasted image 20230629173255.png.md",
     "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images",
     "XSS/MyExpense - XSS Vulnhub Machine",
