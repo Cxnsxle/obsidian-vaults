@@ -4,18 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "46715df50e3ae292",
+        "id": "ab98b49482af5eab",
         "type": "tabs",
         "children": [
           {
-            "id": "fb57157cfe05ec57",
+            "id": "8487bd20833e9f77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5710118a9f1fd663",
+            "type": "leaf",
+            "state": {
+              "type": "image",
               "state": {
-                "file": "LFI/LFI Basics.md",
-                "mode": "source",
-                "source": false
+                "file": "RFI/RFI images/Pasted image 20230713170906.png"
               }
             }
           }
@@ -85,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LFI/LFI Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LFI/LFI Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LFI/LFI Basics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,23 +148,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb57157cfe05ec57",
+  "active": "8487bd20833e9f77",
   "lastOpenFiles": [
-    "LFI/LFI Basics.md",
-    "LFI/LFI images/Pasted image 20230712213026.png",
-    "LFI/LFI images/Pasted image 20230712211042.png",
-    "LFI/LFI images/Pasted image 20230712210744.png",
-    "LFI/LFI images/Pasted image 20230712210334.png",
-    "XXE/XXE Basics.md",
-    "LFI/LFI images/Pasted image 20230712203138.png",
-    "LFI/LFI images/Pasted image 20230712205114.png",
-    "LFI/LFI images/Pasted image 20230712204332.png",
-    "LFI/LFI images/Pasted image 20230712181515.png",
-    "LFI/LFI images/Pasted image 20230712202313.png",
-    "LFI/LFI images/Pasted image 20230712202121.png",
-    "Wrappers.md",
-    "XSS/XSS Basics.md",
+    "RFI/RFI Basics.md",
+    "RFI/RFI images/Pasted image 20230713173241.png",
+    "RFI/RFI images/Pasted image 20230713173006.png",
+    "RFI/RFI images/Pasted image 20230713171941.png",
+    "RFI/RFI images/Pasted image 20230713171733.png",
+    "RFI/RFI images/Pasted image 20230713170906.png",
+    "Pasted image 20230713164832.png.md",
+    "RFI/RFI images/Pasted image 20230713165148.png",
+    "RFI/RFI images/Pasted image 20230713164832.png",
+    "RFI/RFI images/Pasted image 20230713170531.png",
     "BurpSuite.md",
+    "Wfuzz.md",
+    "RFI/RFI images/Pasted image 20230713164457.png",
+    "RFI/RFI images/Pasted image 20230713163852.png",
+    "XSS/XSS Basics.md",
+    "XXE/XXE Basics.md",
+    "LFI/LFI Basics.md",
+    "RFI/RFI images",
+    "RFI",
+    "Wrappers.md",
     "LFI/LFI images",
     "LFI",
     "XSS/MyExpense - XSS Vulnhub Machine/MyExpense - XSS Vulnhub Machine.md",
@@ -177,7 +184,6 @@
     "Pasted image 20230629133300.png.md",
     "XSS/XSS images",
     "XSS",
-    "Untitled 1.md",
-    "SQLI"
+    "Untitled 1.md"
   ]
 }
