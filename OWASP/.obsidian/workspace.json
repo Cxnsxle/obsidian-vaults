@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ab98b49482af5eab",
+        "id": "a6936140eabfe60f",
         "type": "tabs",
         "children": [
           {
-            "id": "06cf870dce8fe2aa",
+            "id": "83a0035edbec9bec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LFI/LFI Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74a840ef3621b58a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LogPoisoning/LogPoisoning Basics.md",
+                "file": "CSRF/CSRF Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LogPoisoning/LogPoisoning Basics.md",
+                "file": "CSRF/CSRF Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LogPoisoning/LogPoisoning Basics.md",
+                "file": "CSRF/CSRF Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LogPoisoning/LogPoisoning Basics.md"
+                "file": "CSRF/CSRF Basics.md"
               }
             }
           }
@@ -159,20 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74a840ef3621b58a",
+  "active": "83a0035edbec9bec",
   "lastOpenFiles": [
-    "LogPoisoning/LogPoisoning images/Pasted image 20230713200127.png",
-    "LogPoisoning/LogPoisoning images/Pasted image 20230713201143.png",
-    "LogPoisoning/LogPoisoning images/Pasted image 20230713203012.png",
-    "LogPoisoning/LogPoisoning images/Pasted image 20230713203554.png",
-    "LogPoisoning/LogPoisoning images/Pasted image 20230713204539.png",
-    "LogPoisoning/LogPoisoning images/Pasted image 20230713213135.png",
-    "LogPoisoning/LogPoisoning images/Pasted image 20230713213424.png",
-    "LogPoisoning/LogPoisoning images/Pasted image 20230713213743.png",
-    "LogPoisoning/LogPoisoning images/Pasted image 20230713204943.png",
     "LogPoisoning/LogPoisoning Basics.md",
-    "Pasted image 20230713195934.png",
     "LFI/LFI Basics.md",
+    "CSRF/CSRF images/Pasted image 20230714163036.png",
+    "CSRF/CSRF Basics.md",
+    "CSRF/CSRF images/Pasted image 20230714172544.png",
+    "CSRF/CSRF images/Pasted image 20230714172523.png",
+    "CSRF/CSRF images/Pasted image 20230714172344.png",
+    "CSRF/CSRF images/Pasted image 20230714171638.png",
+    "CSRF/CSRF images/Pasted image 20230714171151.png",
+    "CSRF/CSRF images/Pasted image 20230714170932.png",
+    "CSRF/CSRF images/Pasted image 20230714165608.png",
+    "CSRF/CSRF images/Pasted image 20230714165334.png",
+    "Pasted image 20230714165224.png.md",
+    "Pasted image 20230714165224.png",
+    "Pasted image 20230714162936.png.md",
+    "CSRF/CSRF images",
+    "CSRF",
     "RFI/RFI Basics.md",
     "LogPoisoning/LogPoisoning images",
     "LogPoisoning",
@@ -193,8 +185,6 @@
     "XXE/XXE images",
     "XXE",
     "Pasted image 20230629173255.png.md",
-    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images",
-    "XSS/MyExpense - XSS Vulnhub Machine",
     "Pasted image 20230629133300.png.md",
     "Untitled 1.md"
   ]
