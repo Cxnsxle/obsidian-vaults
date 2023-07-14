@@ -8,24 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8487bd20833e9f77",
+            "id": "06cf870dce8fe2aa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LFI/LFI Basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "5710118a9f1fd663",
+            "id": "74a840ef3621b58a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "RFI/RFI images/Pasted image 20230713170906.png"
+                "file": "LogPoisoning/LogPoisoning Basics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 307.51103591918945
   },
   "right": {
     "id": "2e2a9b9d1b3cae21",
@@ -91,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LogPoisoning/LogPoisoning Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LogPoisoning/LogPoisoning Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LogPoisoning/LogPoisoning Basics.md"
+              }
             }
           }
         ]
@@ -148,25 +159,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8487bd20833e9f77",
+  "active": "74a840ef3621b58a",
   "lastOpenFiles": [
+    "LogPoisoning/LogPoisoning images/Pasted image 20230713200127.png",
+    "LogPoisoning/LogPoisoning images/Pasted image 20230713201143.png",
+    "LogPoisoning/LogPoisoning images/Pasted image 20230713203012.png",
+    "LogPoisoning/LogPoisoning images/Pasted image 20230713203554.png",
+    "LogPoisoning/LogPoisoning images/Pasted image 20230713204539.png",
+    "LogPoisoning/LogPoisoning images/Pasted image 20230713213135.png",
+    "LogPoisoning/LogPoisoning images/Pasted image 20230713213424.png",
+    "LogPoisoning/LogPoisoning images/Pasted image 20230713213743.png",
+    "LogPoisoning/LogPoisoning images/Pasted image 20230713204943.png",
+    "LogPoisoning/LogPoisoning Basics.md",
+    "Pasted image 20230713195934.png",
+    "LFI/LFI Basics.md",
     "RFI/RFI Basics.md",
-    "RFI/RFI images/Pasted image 20230713173241.png",
-    "RFI/RFI images/Pasted image 20230713173006.png",
-    "RFI/RFI images/Pasted image 20230713171941.png",
-    "RFI/RFI images/Pasted image 20230713171733.png",
-    "RFI/RFI images/Pasted image 20230713170906.png",
+    "LogPoisoning/LogPoisoning images",
+    "LogPoisoning",
     "Pasted image 20230713164832.png.md",
-    "RFI/RFI images/Pasted image 20230713165148.png",
-    "RFI/RFI images/Pasted image 20230713164832.png",
-    "RFI/RFI images/Pasted image 20230713170531.png",
     "BurpSuite.md",
     "Wfuzz.md",
-    "RFI/RFI images/Pasted image 20230713164457.png",
-    "RFI/RFI images/Pasted image 20230713163852.png",
     "XSS/XSS Basics.md",
     "XXE/XXE Basics.md",
-    "LFI/LFI Basics.md",
     "RFI/RFI images",
     "RFI",
     "Wrappers.md",
@@ -182,8 +196,6 @@
     "XSS/MyExpense - XSS Vulnhub Machine/MyExpense images",
     "XSS/MyExpense - XSS Vulnhub Machine",
     "Pasted image 20230629133300.png.md",
-    "XSS/XSS images",
-    "XSS",
     "Untitled 1.md"
   ]
 }
