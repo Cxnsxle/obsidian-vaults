@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSRF/CSRF Basics.md",
+                "file": "SSRF/SSRF Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSRF/CSRF Basics.md",
+                "file": "SSRF/SSRF Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSRF/CSRF Basics.md",
+                "file": "SSRF/SSRF Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSRF/CSRF Basics.md"
+                "file": "SSRF/SSRF Basics.md"
               }
             }
           }
@@ -148,20 +148,26 @@
   },
   "active": "83a0035edbec9bec",
   "lastOpenFiles": [
+    "CSRF/CSRF Basics.md",
+    "SSRF/SSRF Basics.md",
+    "SSRF/SSRF images/Pasted image 20230718174440.png",
+    "SSRF/SSRF images/Pasted image 20230718204119.png",
+    "SSRF/SSRF images/Pasted image 20230718203359.png",
+    "SSRF/SSRF images/Pasted image 20230718203308.png",
+    "SSRF/SSRF images/Pasted image 20230718202042.png",
+    "SSRF/SSRF images/Pasted image 20230718195945.png",
+    "SSRF/SSRF images/Pasted image 20230718194826.png",
+    "SSRF/SSRF images/Pasted image 20230718194206.png",
+    "SSRF/SSRF images/Pasted image 20230718193218.png",
+    "SSRF/SSRF images/Pasted image 20230718190943.png",
+    "Pasted image 20230718173057.png.md",
+    "BurpSuite.md",
+    "SSRF/SSRF images",
+    "SSRF",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense - XSS Vulnhub Machine.md",
     "LogPoisoning/LogPoisoning Basics.md",
     "LFI/LFI Basics.md",
-    "CSRF/CSRF images/Pasted image 20230714163036.png",
-    "CSRF/CSRF Basics.md",
-    "CSRF/CSRF images/Pasted image 20230714172544.png",
-    "CSRF/CSRF images/Pasted image 20230714172523.png",
-    "CSRF/CSRF images/Pasted image 20230714172344.png",
-    "CSRF/CSRF images/Pasted image 20230714171638.png",
-    "CSRF/CSRF images/Pasted image 20230714171151.png",
-    "CSRF/CSRF images/Pasted image 20230714170932.png",
-    "CSRF/CSRF images/Pasted image 20230714165608.png",
-    "CSRF/CSRF images/Pasted image 20230714165334.png",
     "Pasted image 20230714165224.png.md",
-    "Pasted image 20230714165224.png",
     "Pasted image 20230714162936.png.md",
     "CSRF/CSRF images",
     "CSRF",
@@ -169,7 +175,6 @@
     "LogPoisoning/LogPoisoning images",
     "LogPoisoning",
     "Pasted image 20230713164832.png.md",
-    "BurpSuite.md",
     "Wfuzz.md",
     "XSS/XSS Basics.md",
     "XXE/XXE Basics.md",
@@ -178,12 +183,9 @@
     "Wrappers.md",
     "LFI/LFI images",
     "LFI",
-    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense - XSS Vulnhub Machine.md",
     "XSS/HttpOnly.md",
     "XXE/XML.md",
     "SQLI/SQLI Basics.md",
-    "XXE/XXE images",
-    "XXE",
     "Pasted image 20230629173255.png.md",
     "Pasted image 20230629133300.png.md",
     "Untitled 1.md"
