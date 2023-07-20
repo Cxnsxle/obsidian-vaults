@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "da2ee2eae9cf68af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSRF/CSRF Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSRF/CSRF Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSRF/CSRF Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSRF/CSRF Basics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,23 +142,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2ee2eae9cf68af",
+  "active": "0b689514a283aaf6",
   "lastOpenFiles": [
     "SSTI/SSTI Basics.md",
-    "SSTI/SSTI images/Pasted image 20230719192406.png",
-    "SSTI/SSTI images/Pasted image 20230719200748.png",
-    "SSTI/SSTI images/Pasted image 20230719195942.png",
-    "SSTI/SSTI images/Pasted image 20230719194950.png",
-    "SSTI/SSTI images/Pasted image 20230719193840.png",
-    "SSTI/SSTI images/Pasted image 20230719193549.png",
-    "SSTI/SSTI images/Pasted image 20230719193512.png",
-    "SSTI/SSTI images/Pasted image 20230719192951.png",
+    "Padding Oracle/Padding Oracle Basics.md",
+    "Untitled",
+    "Padding Oracle/Padding Oracle images",
+    "Padding Oracle",
+    "CSTI/CSTI Basics.md",
+    "CSTI/CSTI images/Pasted image 20230720173240.png",
+    "CSTI/CSTI images/Pasted image 20230720181126.png",
+    "CSTI/CSTI images/Pasted image 20230720180903.png",
+    "Pasted image 20230720180850.png",
+    "CSTI/CSTI images/Pasted image 20230720175941.png",
+    "CSTI/CSTI images/Pasted image 20230720175710.png",
+    "CSTI/CSTI images/Pasted image 20230720175130.png",
+    "CSTI/CSTI images/Pasted image 20230720174734.png",
+    "CSTI/CSTI images/Pasted image 20230720174504.png",
+    "CSTI/CSTI images/Pasted image 20230720174323.png",
     "CSRF/CSRF Basics.md",
-    "SSTI/SSTI images/Pasted image 20230719192643.png",
+    "CSTI/CSTI images",
+    "CSTI",
     "SSRF/SSRF Basics.md",
     "SSTI/SSTI images",
     "SSTI",
-    "SSRF/SSRF images/Pasted image 20230718174440.png",
     "Pasted image 20230718173057.png.md",
     "BurpSuite.md",
     "SSRF/SSRF images",
@@ -186,16 +176,11 @@
     "Pasted image 20230714165224.png.md",
     "Pasted image 20230714162936.png.md",
     "CSRF/CSRF images",
-    "CSRF",
     "RFI/RFI Basics.md",
-    "LogPoisoning/LogPoisoning images",
-    "LogPoisoning",
     "Pasted image 20230713164832.png.md",
     "Wfuzz.md",
     "XSS/XSS Basics.md",
     "XXE/XXE Basics.md",
-    "RFI/RFI images",
-    "RFI",
     "Wrappers.md",
     "XSS/HttpOnly.md",
     "XXE/XML.md",
