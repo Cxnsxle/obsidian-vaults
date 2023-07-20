@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSRF/SSRF Basics.md",
+                "file": "SSTI/SSTI Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da2ee2eae9cf68af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSRF/CSRF Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSRF/SSRF Basics.md",
+                "file": "CSRF/CSRF Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSRF/SSRF Basics.md",
+                "file": "CSRF/CSRF Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSRF/SSRF Basics.md"
+                "file": "CSRF/CSRF Basics.md"
               }
             }
           }
@@ -146,20 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83a0035edbec9bec",
+  "active": "da2ee2eae9cf68af",
   "lastOpenFiles": [
+    "SSTI/SSTI Basics.md",
+    "SSTI/SSTI images/Pasted image 20230719192406.png",
+    "SSTI/SSTI images/Pasted image 20230719200748.png",
+    "SSTI/SSTI images/Pasted image 20230719195942.png",
+    "SSTI/SSTI images/Pasted image 20230719194950.png",
+    "SSTI/SSTI images/Pasted image 20230719193840.png",
+    "SSTI/SSTI images/Pasted image 20230719193549.png",
+    "SSTI/SSTI images/Pasted image 20230719193512.png",
+    "SSTI/SSTI images/Pasted image 20230719192951.png",
     "CSRF/CSRF Basics.md",
+    "SSTI/SSTI images/Pasted image 20230719192643.png",
     "SSRF/SSRF Basics.md",
+    "SSTI/SSTI images",
+    "SSTI",
     "SSRF/SSRF images/Pasted image 20230718174440.png",
-    "SSRF/SSRF images/Pasted image 20230718204119.png",
-    "SSRF/SSRF images/Pasted image 20230718203359.png",
-    "SSRF/SSRF images/Pasted image 20230718203308.png",
-    "SSRF/SSRF images/Pasted image 20230718202042.png",
-    "SSRF/SSRF images/Pasted image 20230718195945.png",
-    "SSRF/SSRF images/Pasted image 20230718194826.png",
-    "SSRF/SSRF images/Pasted image 20230718194206.png",
-    "SSRF/SSRF images/Pasted image 20230718193218.png",
-    "SSRF/SSRF images/Pasted image 20230718190943.png",
     "Pasted image 20230718173057.png.md",
     "BurpSuite.md",
     "SSRF/SSRF images",
@@ -181,8 +197,6 @@
     "RFI/RFI images",
     "RFI",
     "Wrappers.md",
-    "LFI/LFI images",
-    "LFI",
     "XSS/HttpOnly.md",
     "XXE/XML.md",
     "SQLI/SQLI Basics.md",
