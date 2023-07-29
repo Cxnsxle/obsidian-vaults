@@ -23,11 +23,9 @@
             "id": "635b77e1d8495d6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Type Juggling/Type Juggling Basics.md",
-                "mode": "source",
-                "source": false
+                "file": "Type Juggling/Type Juggling images/Pasted image 20230729171858.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Type Juggling/Type Juggling Basics.md",
+                "file": "Type Juggling/Type Juggling images/Pasted image 20230729171858.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Type Juggling/Type Juggling Basics.md",
+                "file": "Type Juggling/Type Juggling images/Pasted image 20230729171858.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Type Juggling/Type Juggling Basics.md"
+                "file": "Type Juggling/Type Juggling images/Pasted image 20230729171858.png"
               }
             }
           }
@@ -161,12 +159,12 @@
   },
   "active": "635b77e1d8495d6f",
   "lastOpenFiles": [
-    "Pasted image 20230729171858.png",
-    "Pasted image 20230729171103.png",
-    "Pasted image 20230729164738.png",
-    "Pasted image 20230729164354.png",
-    "Padding Oracle/Padding Oracle Basics.md",
+    "Type Juggling/Type Juggling images/Pasted image 20230729171103.png",
+    "Type Juggling/Type Juggling images/Pasted image 20230729164738.png",
+    "Type Juggling/Type Juggling images/Pasted image 20230729164354.png",
     "Type Juggling/Type Juggling Basics.md",
+    "Type Juggling/Type Juggling images/Pasted image 20230729171858.png",
+    "Padding Oracle/Padding Oracle Basics.md",
     "Type Juggling/Type Juggling images",
     "Type Juggling",
     "Padding Oracle/Padding Oracle images/Pasted image 20230720183255.png",
@@ -175,7 +173,6 @@
     "Padding Oracle/Padding Oracle images/Pasted image 20230725181858.png",
     "Padding Oracle/Padding Oracle images/Pasted image 20230725181350.png",
     "Pasted image 20230725181227.png",
-    "Padding Oracle/Padding Oracle images/Pasted image 20230725180230.png",
     "Pasted image 20230725170156.png.md",
     "XSS/XSS Basics.md",
     "XSS/MyExpense - XSS Vulnhub Machine/MyExpense - XSS Vulnhub Machine.md",
