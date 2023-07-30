@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d0ee1ba69d2433df",
+        "id": "e0c5f2446900b3f5",
         "type": "tabs",
         "children": [
           {
-            "id": "3808b134fab58ac9",
+            "id": "9c487bd53046343b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Padding Oracle/Padding Oracle Basics.md",
+                "file": "NoSQLI/NoSQLI Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "635b77e1d8495d6f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Type Juggling/Type Juggling images/Pasted image 20230729171858.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Type Juggling/Type Juggling images/Pasted image 20230729171858.png",
+                "file": "NoSQLI/NoSQLI Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Type Juggling/Type Juggling images/Pasted image 20230729171858.png",
+                "file": "NoSQLI/NoSQLI Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Type Juggling/Type Juggling images/Pasted image 20230729171858.png"
+                "file": "NoSQLI/NoSQLI Basics.md"
               }
             }
           }
@@ -157,22 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "635b77e1d8495d6f",
+  "active": "9c487bd53046343b",
   "lastOpenFiles": [
-    "Type Juggling/Type Juggling images/Pasted image 20230729171103.png",
-    "Type Juggling/Type Juggling images/Pasted image 20230729164738.png",
-    "Type Juggling/Type Juggling images/Pasted image 20230729164354.png",
-    "Type Juggling/Type Juggling Basics.md",
-    "Type Juggling/Type Juggling images/Pasted image 20230729171858.png",
+    "NoSQLI/NoSQLI images/Pasted image 20230729191530.png",
+    "NoSQLI/NoSQLI images/Pasted image 20230729191004.png",
+    "NoSQLI/NoSQLI images/Pasted image 20230729190928.png",
+    "NoSQLI/NoSQLI images/Pasted image 20230729184230.png",
+    "NoSQLI/NoSQLI images/Pasted image 20230729184004.png",
+    "NoSQLI/NoSQLI images/Pasted image 20230729182827.png",
+    "NoSQLI/NoSQLI images/Pasted image 20230729182436.png",
+    "NoSQLI/NoSQLI images/Pasted image 20230729181026.png",
+    "NoSQLI/NoSQLI images/Pasted image 20230729180439.png",
+    "NoSQLI/NoSQLI images/Pasted image 20230729180129.png",
+    "NoSQLI/NoSQLI images/Pasted image 20230729173637.png",
+    "NoSQLI/NoSQLI Basics.md",
+    "SQLI/SQLI Basics.md",
+    "NoSQLI/NoSQLI images",
+    "NoSQLI",
     "Padding Oracle/Padding Oracle Basics.md",
+    "Type Juggling/Type Juggling Basics.md",
     "Type Juggling/Type Juggling images",
     "Type Juggling",
-    "Padding Oracle/Padding Oracle images/Pasted image 20230720183255.png",
-    "Padding Oracle/Padding Oracle images/Pasted image 20230725182402.png",
-    "Padding Oracle/Padding Oracle images/Pasted image 20230725182209.png",
-    "Padding Oracle/Padding Oracle images/Pasted image 20230725181858.png",
-    "Padding Oracle/Padding Oracle images/Pasted image 20230725181350.png",
-    "Pasted image 20230725181227.png",
     "Pasted image 20230725170156.png.md",
     "XSS/XSS Basics.md",
     "XSS/MyExpense - XSS Vulnhub Machine/MyExpense - XSS Vulnhub Machine.md",
@@ -187,8 +181,6 @@
     "CSRF/CSRF Basics.md",
     "CSTI/CSTI images",
     "CSTI",
-    "SSTI/SSTI images",
-    "SSTI",
     "Pasted image 20230718173057.png.md",
     "BurpSuite.md",
     "LogPoisoning/LogPoisoning Basics.md",
@@ -201,8 +193,6 @@
     "Wrappers.md",
     "XSS/HttpOnly.md",
     "XXE/XML.md",
-    "SQLI/SQLI Basics.md",
-    "Pasted image 20230629173255.png.md",
-    "Pasted image 20230629133300.png.md"
+    "Pasted image 20230629173255.png.md"
   ]
 }
