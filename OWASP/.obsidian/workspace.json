@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c5f2446900b3f5",
+        "id": "adc69c42fed35177",
         "type": "tabs",
         "children": [
           {
-            "id": "9c487bd53046343b",
+            "id": "df1fdca090c2e299",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NoSQLI/NoSQLI Basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQLI/NoSQLI Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQLI/NoSQLI Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NoSQLI/NoSQLI Basics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,20 +138,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c487bd53046343b",
+  "active": "0b689514a283aaf6",
   "lastOpenFiles": [
-    "NoSQLI/NoSQLI images/Pasted image 20230729191530.png",
-    "NoSQLI/NoSQLI images/Pasted image 20230729191004.png",
-    "NoSQLI/NoSQLI images/Pasted image 20230729190928.png",
-    "NoSQLI/NoSQLI images/Pasted image 20230729184230.png",
-    "NoSQLI/NoSQLI images/Pasted image 20230729184004.png",
-    "NoSQLI/NoSQLI images/Pasted image 20230729182827.png",
-    "NoSQLI/NoSQLI images/Pasted image 20230729182436.png",
-    "NoSQLI/NoSQLI images/Pasted image 20230729181026.png",
-    "NoSQLI/NoSQLI images/Pasted image 20230729180439.png",
-    "NoSQLI/NoSQLI images/Pasted image 20230729180129.png",
-    "NoSQLI/NoSQLI images/Pasted image 20230729173637.png",
+    "LDAP Injection/LDAP Injection Basics.md",
+    "LDAP Injection/LDAP Injection images/Pasted image 20230730165524.png",
+    "LDAP Injection/LDAP Injection images/Pasted image 20230730221330.png",
+    "LDAP Injection/LDAP Injection images/Pasted image 20230730194505.png",
+    "Pasted image 20230730194424.png",
+    "LDAP Injection/LDAP Injection images/Pasted image 20230730194240.png",
+    "LDAP Injection/LDAP Injection images/Pasted image 20230730194148.png",
+    "Pasted image 20230730194049.png",
     "NoSQLI/NoSQLI Basics.md",
+    "LDAP Injection/LDAP Injection images/Pasted image 20230730193613.png",
+    "Pasted image 20230730193435.png",
+    "LDAP Injection/LDAP Injection images/Pasted image 20230730191255.png",
+    "LDAP Injection/LDAP Injection images",
+    "LDAP Injection",
     "SQLI/SQLI Basics.md",
     "NoSQLI/NoSQLI images",
     "NoSQLI",
@@ -179,8 +173,6 @@
     "Padding Oracle",
     "CSTI/CSTI Basics.md",
     "CSRF/CSRF Basics.md",
-    "CSTI/CSTI images",
-    "CSTI",
     "Pasted image 20230718173057.png.md",
     "BurpSuite.md",
     "LogPoisoning/LogPoisoning Basics.md",
@@ -192,7 +184,6 @@
     "XXE/XXE Basics.md",
     "Wrappers.md",
     "XSS/HttpOnly.md",
-    "XXE/XML.md",
-    "Pasted image 20230629173255.png.md"
+    "XXE/XML.md"
   ]
 }
