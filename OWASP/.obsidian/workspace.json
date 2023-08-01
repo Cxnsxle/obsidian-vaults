@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "adc69c42fed35177",
+        "id": "146430bac32b4a7f",
         "type": "tabs",
         "children": [
           {
-            "id": "df1fdca090c2e299",
+            "id": "53a759b16b831c11",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 236.51103591918945
   },
   "right": {
     "id": "2e2a9b9d1b3cae21",
@@ -138,20 +138,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b689514a283aaf6",
+  "active": "53a759b16b831c11",
   "lastOpenFiles": [
+    "Deserialization/Deserialization Basics.md",
+    "Deserialization/Deserialization images/Pasted image 20230731211246.png",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense - XSS Vulnhub Machine.md",
+    "Deserialization/Deserialization images/Pasted image 20230731210809.png",
+    "Deserialization/Deserialization images/Pasted image 20230731210434.png",
+    "Deserialization/Deserialization images/Pasted image 20230731205532.png",
+    "Deserialization/Deserialization images/Pasted image 20230731204455.png",
+    "Pasted image 20230731203830.png",
+    "Deserialization/Deserialization images/Pasted image 20230731204145.png",
+    "Deserialization/Deserialization images/Pasted image 20230731203410.png",
+    "Deserialization/Deserialization images/Pasted image 20230731203335.png",
+    "Deserialization/Deserialization images/Pasted image 20230731203108.png",
     "LDAP Injection/LDAP Injection Basics.md",
-    "LDAP Injection/LDAP Injection images/Pasted image 20230730165524.png",
-    "LDAP Injection/LDAP Injection images/Pasted image 20230730221330.png",
-    "LDAP Injection/LDAP Injection images/Pasted image 20230730194505.png",
-    "Pasted image 20230730194424.png",
-    "LDAP Injection/LDAP Injection images/Pasted image 20230730194240.png",
-    "LDAP Injection/LDAP Injection images/Pasted image 20230730194148.png",
-    "Pasted image 20230730194049.png",
+    "Untitled",
+    "Deserialization/Deserialization images",
+    "Deserialization",
     "NoSQLI/NoSQLI Basics.md",
-    "LDAP Injection/LDAP Injection images/Pasted image 20230730193613.png",
-    "Pasted image 20230730193435.png",
-    "LDAP Injection/LDAP Injection images/Pasted image 20230730191255.png",
     "LDAP Injection/LDAP Injection images",
     "LDAP Injection",
     "SQLI/SQLI Basics.md",
@@ -163,14 +168,10 @@
     "Type Juggling",
     "Pasted image 20230725170156.png.md",
     "XSS/XSS Basics.md",
-    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense - XSS Vulnhub Machine.md",
     "LFI/LFI Basics.md",
     "SSRF/SSRF Basics.md",
     "SSTI/SSTI Basics.md",
     "Padding Oracle/Padding Oracle images",
-    "Padding Oracle",
-    "Padding Oracle/Padding Oracle images",
-    "Padding Oracle",
     "CSTI/CSTI Basics.md",
     "CSRF/CSRF Basics.md",
     "Pasted image 20230718173057.png.md",
@@ -183,7 +184,6 @@
     "Wfuzz.md",
     "XXE/XXE Basics.md",
     "Wrappers.md",
-    "XSS/HttpOnly.md",
-    "XXE/XML.md"
+    "XSS/HttpOnly.md"
   ]
 }
