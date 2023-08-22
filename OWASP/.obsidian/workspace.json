@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "146430bac32b4a7f",
+        "id": "c1f725d435d70397",
         "type": "tabs",
         "children": [
           {
-            "id": "53a759b16b831c11",
+            "id": "234fa9a16faec864",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,22 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53a759b16b831c11",
+  "active": "234fa9a16faec864",
   "lastOpenFiles": [
-    "Deserialization/Deserialization Basics.md",
-    "Deserialization/Deserialization images/Pasted image 20230731211246.png",
-    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense - XSS Vulnhub Machine.md",
-    "Deserialization/Deserialization images/Pasted image 20230731210809.png",
-    "Deserialization/Deserialization images/Pasted image 20230731210434.png",
-    "Deserialization/Deserialization images/Pasted image 20230731205532.png",
-    "Deserialization/Deserialization images/Pasted image 20230731204455.png",
-    "Pasted image 20230731203830.png",
-    "Deserialization/Deserialization images/Pasted image 20230731204145.png",
-    "Deserialization/Deserialization images/Pasted image 20230731203410.png",
-    "Deserialization/Deserialization images/Pasted image 20230731203335.png",
-    "Deserialization/Deserialization images/Pasted image 20230731203108.png",
     "LDAP Injection/LDAP Injection Basics.md",
-    "Untitled",
+    "LaTex Injection/LaTex Injection Basics.md",
+    "LaTex Injection/LaTex Injection images/Pasted image 20230821163251.png",
+    "LaTex Injection/LaTex Injection images/Pasted image 20230821191419.png",
+    "LaTex Injection/LaTex Injection images/Pasted image 20230821191120.png",
+    "LaTex Injection/LaTex Injection images/Pasted image 20230821191003.png",
+    "LaTex Injection/LaTex Injection images/Pasted image 20230821190621.png",
+    "LaTex Injection/LaTex Injection images/Pasted image 20230821185658.png",
+    "LaTex Injection/LaTex Injection images/Pasted image 20230821184735.png",
+    "LaTex Injection/LaTex Injection images/Pasted image 20230821172935.png",
+    "LaTex Injection/LaTex Injection images/Pasted image 20230821172144.png",
+    "LaTex Injection/LaTex Injection images/Pasted image 20230821171258.png",
+    "Deserialization/Deserialization Basics.md",
+    "LaTex Injection/LaTex Injection images",
+    "LaTex Injection",
+    "XSS/MyExpense - XSS Vulnhub Machine/MyExpense - XSS Vulnhub Machine.md",
     "Deserialization/Deserialization images",
     "Deserialization",
     "NoSQLI/NoSQLI Basics.md",
@@ -171,7 +173,6 @@
     "LFI/LFI Basics.md",
     "SSRF/SSRF Basics.md",
     "SSTI/SSTI Basics.md",
-    "Padding Oracle/Padding Oracle images",
     "CSTI/CSTI Basics.md",
     "CSRF/CSRF Basics.md",
     "Pasted image 20230718173057.png.md",
@@ -183,7 +184,6 @@
     "Pasted image 20230713164832.png.md",
     "Wfuzz.md",
     "XXE/XXE Basics.md",
-    "Wrappers.md",
-    "XSS/HttpOnly.md"
+    "Wrappers.md"
   ]
 }
