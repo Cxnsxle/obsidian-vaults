@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c1f725d435d70397",
+        "id": "83d21896288f2cff",
         "type": "tabs",
         "children": [
           {
-            "id": "234fa9a16faec864",
+            "id": "a9854f1959b44854",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTex Injection/LaTex Injection Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca9496204a901bf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "API Abuse/API Abuse Basics.md",
+                "file": "Dynamic Notes/File Upload Abuse.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Abuse/API Abuse Basics.md",
+                "file": "Dynamic Notes/File Upload Abuse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API Abuse/API Abuse Basics.md",
+                "file": "Dynamic Notes/File Upload Abuse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Abuse/API Abuse Basics.md"
+                "file": "Dynamic Notes/File Upload Abuse.md"
               }
             }
           }
@@ -159,10 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca9496204a901bf9",
+  "active": "a9854f1959b44854",
   "lastOpenFiles": [
-    "API Abuse/API Abuse images/Pasted image 20230822222153.png",
+    "Dynamic Notes/File Upload Abuse.md",
+    "Dynamic Notes/Dynamic images",
+    "Untitled.md",
+    "Dynamic Notes",
+    "Dynamic Notes/Dynamic images/Pasted image 20230823161215.png",
     "API Abuse/API Abuse Basics.md",
+    "LaTex Injection/LaTex Injection Basics.md",
+    "API Abuse/API Abuse images/Pasted image 20230822222153.png",
     "SQLI/SQLI Basics.md",
     "API Abuse/API Abuse images/Pasted image 20230822222009.png",
     "API Abuse/API Abuse images/Pasted image 20230822221344.png",
@@ -172,8 +165,6 @@
     "API Abuse/API Abuse images/Pasted image 20230822220321.png",
     "API Abuse/API Abuse images/Pasted image 20230822220242.png",
     "API Abuse/API Abuse images/Pasted image 20230822215831.png",
-    "API Abuse/API Abuse images/Pasted image 20230822215442.png",
-    "LaTex Injection/LaTex Injection Basics.md",
     "API Abuse/API Abuse images",
     "API Abuse",
     "LDAP Injection/LDAP Injection Basics.md",
@@ -186,8 +177,6 @@
     "NoSQLI/NoSQLI Basics.md",
     "LDAP Injection/LDAP Injection images",
     "LDAP Injection",
-    "NoSQLI/NoSQLI images",
-    "NoSQLI",
     "Padding Oracle/Padding Oracle Basics.md",
     "Type Juggling/Type Juggling Basics.md",
     "Pasted image 20230725170156.png.md",
@@ -203,8 +192,6 @@
     "Pasted image 20230714165224.png.md",
     "Pasted image 20230714162936.png.md",
     "RFI/RFI Basics.md",
-    "Pasted image 20230713164832.png.md",
-    "Wfuzz.md",
-    "XXE/XXE Basics.md"
+    "Pasted image 20230713164832.png.md"
   ]
 }
