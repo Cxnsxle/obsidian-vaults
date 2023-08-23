@@ -11,11 +11,28 @@
             "id": "234fa9a16faec864",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LaTex Injection/LaTex Injection Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca9496204a901bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API Abuse/API Abuse Basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "API Abuse/API Abuse Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "API Abuse/API Abuse Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "API Abuse/API Abuse Basics.md"
+              }
             }
           }
         ]
@@ -138,20 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "234fa9a16faec864",
+  "active": "ca9496204a901bf9",
   "lastOpenFiles": [
-    "LDAP Injection/LDAP Injection Basics.md",
+    "API Abuse/API Abuse images/Pasted image 20230822222153.png",
+    "API Abuse/API Abuse Basics.md",
+    "SQLI/SQLI Basics.md",
+    "API Abuse/API Abuse images/Pasted image 20230822222009.png",
+    "API Abuse/API Abuse images/Pasted image 20230822221344.png",
+    "API Abuse/API Abuse images/Pasted image 20230822221106.png",
+    "API Abuse/API Abuse images/Pasted image 20230822221049.png",
+    "API Abuse/API Abuse images/Pasted image 20230822220429.png",
+    "API Abuse/API Abuse images/Pasted image 20230822220321.png",
+    "API Abuse/API Abuse images/Pasted image 20230822220242.png",
+    "API Abuse/API Abuse images/Pasted image 20230822215831.png",
+    "API Abuse/API Abuse images/Pasted image 20230822215442.png",
     "LaTex Injection/LaTex Injection Basics.md",
-    "LaTex Injection/LaTex Injection images/Pasted image 20230821163251.png",
-    "LaTex Injection/LaTex Injection images/Pasted image 20230821191419.png",
-    "LaTex Injection/LaTex Injection images/Pasted image 20230821191120.png",
-    "LaTex Injection/LaTex Injection images/Pasted image 20230821191003.png",
-    "LaTex Injection/LaTex Injection images/Pasted image 20230821190621.png",
-    "LaTex Injection/LaTex Injection images/Pasted image 20230821185658.png",
-    "LaTex Injection/LaTex Injection images/Pasted image 20230821184735.png",
-    "LaTex Injection/LaTex Injection images/Pasted image 20230821172935.png",
-    "LaTex Injection/LaTex Injection images/Pasted image 20230821172144.png",
-    "LaTex Injection/LaTex Injection images/Pasted image 20230821171258.png",
+    "API Abuse/API Abuse images",
+    "API Abuse",
+    "LDAP Injection/LDAP Injection Basics.md",
     "Deserialization/Deserialization Basics.md",
     "LaTex Injection/LaTex Injection images",
     "LaTex Injection",
@@ -161,13 +186,10 @@
     "NoSQLI/NoSQLI Basics.md",
     "LDAP Injection/LDAP Injection images",
     "LDAP Injection",
-    "SQLI/SQLI Basics.md",
     "NoSQLI/NoSQLI images",
     "NoSQLI",
     "Padding Oracle/Padding Oracle Basics.md",
     "Type Juggling/Type Juggling Basics.md",
-    "Type Juggling/Type Juggling images",
-    "Type Juggling",
     "Pasted image 20230725170156.png.md",
     "XSS/XSS Basics.md",
     "LFI/LFI Basics.md",
@@ -183,7 +205,6 @@
     "RFI/RFI Basics.md",
     "Pasted image 20230713164832.png.md",
     "Wfuzz.md",
-    "XXE/XXE Basics.md",
-    "Wrappers.md"
+    "XXE/XXE Basics.md"
   ]
 }
