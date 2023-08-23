@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2ef5143684394b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Notes/Prototype Pollution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Notes/File Upload Abuse.md",
+                "file": "Dynamic Notes/Prototype Pollution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Notes/File Upload Abuse.md",
+                "file": "Dynamic Notes/Prototype Pollution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Notes/File Upload Abuse.md"
+                "file": "Dynamic Notes/Prototype Pollution.md"
               }
             }
           }
@@ -146,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9854f1959b44854",
+  "active": "0b689514a283aaf6",
   "lastOpenFiles": [
     "Dynamic Notes/File Upload Abuse.md",
+    "Dynamic Notes/Prototype Pollution.md",
     "Dynamic Notes/Dynamic images",
-    "Untitled.md",
     "Dynamic Notes",
     "Dynamic Notes/Dynamic images/Pasted image 20230823161215.png",
     "API Abuse/API Abuse Basics.md",
