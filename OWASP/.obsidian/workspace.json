@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77298b9112647d2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Notes/Shell Shock.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Notes/SQUID Proxies.md",
+                "file": "Dynamic Notes/Shell Shock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Notes/SQUID Proxies.md",
+                "file": "Dynamic Notes/Shell Shock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Notes/SQUID Proxies.md"
+                "file": "Dynamic Notes/Shell Shock.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "455fc47424def93d",
+  "active": "77298b9112647d2d",
   "lastOpenFiles": [
     "Dynamic Notes/SQUID Proxies.md",
+    "Dynamic Notes/Shell Shock.md",
     "Dynamic Notes/WebDAV.md",
     "Dynamic Notes/Open Redirect.md",
     "Dynamic Notes/Mass Assignment Attack.md",
@@ -192,7 +206,6 @@
     "CSTI/CSTI Basics.md",
     "CSRF/CSRF Basics.md",
     "Pasted image 20230718173057.png.md",
-    "BurpSuite.md",
-    "LogPoisoning/LogPoisoning Basics.md"
+    "BurpSuite.md"
   ]
 }
