@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b052deae3e6c1520",
+        "id": "c06814453f150168",
         "type": "tabs",
         "children": [
           {
-            "id": "71c91113b4b0c9aa",
+            "id": "8eee16c362091df1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4137b1f7be6144e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Notes/XPath Injection.md",
+                "file": "Dynamic Notes/IDORs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Notes/XPath Injection.md",
+                "file": "Dynamic Notes/IDORs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Notes/XPath Injection.md",
+                "file": "Dynamic Notes/IDORs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Notes/XPath Injection.md"
+                "file": "Dynamic Notes/IDORs.md"
               }
             }
           }
@@ -146,11 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71c91113b4b0c9aa",
+  "active": "0b689514a283aaf6",
   "lastOpenFiles": [
+    "Dynamic Notes/IDORs.md",
+    "Dynamic Notes/XPath Injection.md",
     "Dynamic Notes/Shell Shock.md",
     "Dynamic Notes/SQUID Proxies.md",
-    "Dynamic Notes/XPath Injection.md",
     "Dynamic Notes/WebDAV.md",
     "Dynamic Notes/Open Redirect.md",
     "Dynamic Notes/Mass Assignment Attack.md",
@@ -192,7 +202,6 @@
     "SSRF/SSRF Basics.md",
     "SSTI/SSTI Basics.md",
     "CSTI/CSTI Basics.md",
-    "CSRF/CSRF Basics.md",
-    "Pasted image 20230718173057.png.md"
+    "CSRF/CSRF Basics.md"
   ]
 }
