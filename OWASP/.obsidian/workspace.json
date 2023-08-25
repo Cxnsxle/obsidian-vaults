@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "455fc47424def93d",
+            "id": "71c91113b4b0c9aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Notes/SQUID Proxies.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77298b9112647d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Notes/Shell Shock.md",
-                "mode": "preview",
+                "file": "Dynamic Notes/XPath Injection.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Notes/Shell Shock.md",
+                "file": "Dynamic Notes/XPath Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Notes/Shell Shock.md",
+                "file": "Dynamic Notes/XPath Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Notes/Shell Shock.md"
+                "file": "Dynamic Notes/XPath Injection.md"
               }
             }
           }
@@ -159,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77298b9112647d2d",
+  "active": "71c91113b4b0c9aa",
   "lastOpenFiles": [
-    "Dynamic Notes/SQUID Proxies.md",
     "Dynamic Notes/Shell Shock.md",
+    "Dynamic Notes/SQUID Proxies.md",
+    "Dynamic Notes/XPath Injection.md",
     "Dynamic Notes/WebDAV.md",
     "Dynamic Notes/Open Redirect.md",
     "Dynamic Notes/Mass Assignment Attack.md",
@@ -205,7 +193,6 @@
     "SSTI/SSTI Basics.md",
     "CSTI/CSTI Basics.md",
     "CSRF/CSRF Basics.md",
-    "Pasted image 20230718173057.png.md",
-    "BurpSuite.md"
+    "Pasted image 20230718173057.png.md"
   ]
 }
