@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "017dcf9c6977df61",
+        "id": "e981e5f73258295a",
         "type": "tabs",
         "children": [
           {
-            "id": "4a3585ffbd9a74ef",
+            "id": "bb974cdd2f98faf9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dynamic Notes/DES-Pickle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dynamic Notes/DES-Pickle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dynamic Notes/DES-Pickle.md"
+              }
             }
           }
         ]
@@ -138,8 +142,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a3585ffbd9a74ef",
+  "active": "0b689514a283aaf6",
   "lastOpenFiles": [
+    "Dynamic Notes/DES-Pickle.md",
     "Dynamic Notes/DES-Yaml.md",
     "Dynamic Notes/CSSI.md",
     "Dynamic Notes/Race Condition.md",
@@ -184,7 +189,6 @@
     "Deserialization",
     "NoSQLI/NoSQLI Basics.md",
     "LDAP Injection/LDAP Injection images",
-    "LDAP Injection",
-    "Padding Oracle/Padding Oracle Basics.md"
+    "LDAP Injection"
   ]
 }
