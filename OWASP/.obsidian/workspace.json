@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa1611fc44d2b7c6",
+            "id": "77f3fd40a524ab1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Notes/SQL Truncation.md",
+                "file": "Dynamic Notes/Session Puzzling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Notes/SQL Truncation.md",
+                "file": "Dynamic Notes/Session Puzzling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Notes/SQL Truncation.md",
+                "file": "Dynamic Notes/Session Puzzling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Notes/SQL Truncation.md"
+                "file": "Dynamic Notes/Session Puzzling.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa1611fc44d2b7c6",
+  "active": "0b689514a283aaf6",
   "lastOpenFiles": [
+    "Dynamic Notes/SQL Truncation.md",
+    "Dynamic Notes/Session Puzzling.md",
     "Dynamic Notes/Apache2.md",
     "Dynamic Notes/Terminal Formating.md",
-    "Dynamic Notes/SQL Truncation.md",
     "Dynamic Notes/IDORs.md",
     "Dynamic Notes/XPath Injection.md",
     "Dynamic Notes/Shell Shock.md",
@@ -192,7 +193,6 @@
     "Type Juggling/Type Juggling Basics.md",
     "Pasted image 20230725170156.png.md",
     "XSS/XSS Basics.md",
-    "LFI/LFI Basics.md",
-    "SSRF/SSRF Basics.md"
+    "LFI/LFI Basics.md"
   ]
 }
