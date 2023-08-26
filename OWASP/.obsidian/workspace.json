@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c06814453f150168",
+        "id": "fa3d7628d7e661a7",
         "type": "tabs",
         "children": [
           {
-            "id": "8eee16c362091df1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a4137b1f7be6144e",
+            "id": "aa1611fc44d2b7c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Notes/IDORs.md",
+                "file": "Dynamic Notes/SQL Truncation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Notes/IDORs.md",
+                "file": "Dynamic Notes/SQL Truncation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Notes/IDORs.md",
+                "file": "Dynamic Notes/SQL Truncation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Notes/IDORs.md"
+                "file": "Dynamic Notes/SQL Truncation.md"
               }
             }
           }
@@ -155,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b689514a283aaf6",
+  "active": "aa1611fc44d2b7c6",
   "lastOpenFiles": [
+    "Dynamic Notes/Apache2.md",
+    "Dynamic Notes/Terminal Formating.md",
+    "Dynamic Notes/SQL Truncation.md",
     "Dynamic Notes/IDORs.md",
     "Dynamic Notes/XPath Injection.md",
     "Dynamic Notes/Shell Shock.md",
@@ -199,9 +193,6 @@
     "Pasted image 20230725170156.png.md",
     "XSS/XSS Basics.md",
     "LFI/LFI Basics.md",
-    "SSRF/SSRF Basics.md",
-    "SSTI/SSTI Basics.md",
-    "CSTI/CSTI Basics.md",
-    "CSRF/CSRF Basics.md"
+    "SSRF/SSRF Basics.md"
   ]
 }
