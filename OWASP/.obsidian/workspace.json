@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fa3d7628d7e661a7",
+        "id": "be137b1c5f329918",
         "type": "tabs",
         "children": [
           {
-            "id": "77f3fd40a524ab1e",
+            "id": "ee02403390c064db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Notes/Session Puzzling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Notes/Session Puzzling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Notes/Session Puzzling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dynamic Notes/Session Puzzling.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,9 @@
   },
   "active": "0b689514a283aaf6",
   "lastOpenFiles": [
-    "Dynamic Notes/SQL Truncation.md",
+    "Dynamic Notes/JWT.md",
     "Dynamic Notes/Session Puzzling.md",
+    "Dynamic Notes/SQL Truncation.md",
     "Dynamic Notes/Apache2.md",
     "Dynamic Notes/Terminal Formating.md",
     "Dynamic Notes/IDORs.md",
@@ -192,7 +185,6 @@
     "Padding Oracle/Padding Oracle Basics.md",
     "Type Juggling/Type Juggling Basics.md",
     "Pasted image 20230725170156.png.md",
-    "XSS/XSS Basics.md",
-    "LFI/LFI Basics.md"
+    "XSS/XSS Basics.md"
   ]
 }
