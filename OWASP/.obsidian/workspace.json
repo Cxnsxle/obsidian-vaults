@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "ede1ead35cf3c129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Notes/CSSI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Notes/CSSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Notes/CSSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dynamic Notes/CSSI.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ede1ead35cf3c129",
+  "active": "4a3585ffbd9a74ef",
   "lastOpenFiles": [
+    "Dynamic Notes/DES-Yaml.md",
     "Dynamic Notes/CSSI.md",
     "Dynamic Notes/Race Condition.md",
     "Dynamic Notes/JWT.md",
@@ -201,7 +185,6 @@
     "NoSQLI/NoSQLI Basics.md",
     "LDAP Injection/LDAP Injection images",
     "LDAP Injection",
-    "Padding Oracle/Padding Oracle Basics.md",
-    "Type Juggling/Type Juggling Basics.md"
+    "Padding Oracle/Padding Oracle Basics.md"
   ]
 }
